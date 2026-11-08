@@ -1,0 +1,8 @@
+day_of_week,day_order,users,sessions,transactions,total_revenue
+Monday,1,44560,51242,874,61870.0
+Tuesday,2,51526,59848,991,61970.0
+Wednesday,3,51344,58910,982,63937.0
+Thursday,4,47735,54814,829,49691.0
+Friday,5,43893,50319,981,59281.0
+Saturday,6,35687,39823,604,38412.0
+Sunday,7,36079,40014,431,27004.0

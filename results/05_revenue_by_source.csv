@@ -1,0 +1,10 @@
+medium,source,transactions,total_revenue,avg_order_value
+organic,google,1454,95775.0,65.87
+(none),(direct),1251,79650.0,63.67
+(data deleted),(data deleted),830,50064.0,60.32
+referral,shop.googlemerchandisestore.com,701,46521.0,66.36
+referral,<Other>,557,37000.0,66.43
+<Other>,<Other>,606,35470.0,58.53
+cpc,google,166,9056.0,54.55
+organic,<Other>,118,8232.0,69.76
+(data deleted),<Other>,9,397.0,44.11

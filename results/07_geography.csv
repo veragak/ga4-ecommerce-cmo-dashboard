@@ -1,0 +1,728 @@
+country,city,users,sessions,transactions,total_revenue
+United States,(not set),53435,69967,1065,72485.0
+United States,Ashburn,5456,7258,132,7581.0
+Canada,(not set),5410,7092,149,11211.0
+United States,New York,4873,6555,91,3882.0
+United Kingdom,(not set),4532,5946,92,6350.0
+Taiwan,(not set),4065,5339,74,3667.0
+India,(not set),3720,4860,64,3926.0
+Singapore,Singapore,3478,4503,69,3598.0
+France,(not set),3249,4309,77,4191.0
+Germany,(not set),2815,3664,62,4140.0
+United States,Boston,2576,3420,40,1936.0
+United Kingdom,London,2534,3274,55,2662.0
+Canada,Toronto,2501,3201,53,3573.0
+United States,San Jose,2298,2987,43,3043.0
+United States,Los Angeles,2255,2984,54,2716.0
+Spain,(not set),2200,2902,79,4445.0
+(not set),(not set),2168,2840,37,1565.0
+United States,San Francisco,2212,2813,43,3066.0
+Italy,(not set),2085,2751,33,2547.0
+United States,Chicago,1971,2602,61,3131.0
+Netherlands,(not set),1876,2474,42,2496.0
+Japan,(not set),1815,2400,49,3007.0
+India,Bengaluru,1754,2259,32,2521.0
+India,Hyderabad,1694,2213,30,2246.0
+India,Delhi,1682,2193,46,2791.0
+Hong Kong,(not set),1652,2177,44,1995.0
+South Korea,Seoul,1607,2062,30,1818.0
+Brazil,(not set),1498,1996,39,2532.0
+India,Mumbai,1504,1988,36,1825.0
+United States,Sunnyvale,1441,1930,29,1246.0
+Canada,Montreal,1494,1921,24,1044.0
+India,Pune,1454,1854,21,2074.0
+France,Paris,1306,1736,27,1228.0
+China,Hangzhou,1304,1697,32,2288.0
+Turkey,Istanbul,1296,1686,25,2181.0
+Mexico,(not set),1275,1669,38,2001.0
+Peru,(not set),1195,1664,32,1377.0
+India,Chennai,1202,1658,42,3763.0
+United States,Houston,1224,1605,48,2515.0
+United States,Seattle,1191,1543,22,1337.0
+United States,Austin,1119,1493,22,1869.0
+Spain,Madrid,1175,1491,12,681.0
+Ireland,Dublin,1096,1462,27,2180.0
+United States,Roseville,1081,1423,18,1670.0
+United States,Mountain View,1072,1416,22,1213.0
+India,Ahmedabad,977,1279,12,777.0
+India,Lucknow,952,1272,19,1639.0
+Australia,Sydney,965,1263,20,964.0
+United States,Dallas,923,1221,18,1101.0
+India,Kolkata,933,1214,16,911.0
+South Korea,(not set),904,1187,11,938.0
+Poland,(not set),886,1177,21,1179.0
+Russia,(not set),879,1168,28,1551.0
+China,(not set),833,1150,29,1165.0
+Canada,Calgary,878,1148,15,652.0
+Thailand,Bangkok,869,1142,20,1570.0
+India,Patna,865,1113,10,523.0
+India,Indore,833,1085,18,1294.0
+India,Jaipur,778,1082,19,1020.0
+Spain,Barcelona,828,1079,23,1338.0
+United States,Philadelphia,796,1051,10,896.0
+Belgium,(not set),809,1050,13,404.0
+Israel,Tel Aviv-Yafo,778,1027,17,953.0
+Switzerland,(not set),767,1020,15,706.0
+Colombia,Bogota,734,979,16,1054.0
+Sweden,(not set),741,978,12,603.0
+Indonesia,Jakarta,723,967,13,879.0
+United States,Santa Clara,718,943,11,923.0
+Australia,Melbourne,671,937,12,2135.0
+Brazil,Sao Paulo,685,910,8,422.0
+United States,Atlanta,683,892,12,908.0
+United States,Denver,657,892,17,1847.0
+United States,Charlotte,676,883,16,1263.0
+Philippines,(not set),667,872,16,1105.0
+Russia,Moscow,663,857,14,703.0
+United States,Phoenix,638,852,15,1875.0
+Portugal,(not set),641,849,13,911.0
+Turkey,(not set),657,839,10,843.0
+United States,Columbus,622,837,6,289.0
+Poland,Warsaw,623,818,17,1039.0
+China,Beijing,608,796,6,659.0
+United States,San Antonio,597,793,23,1705.0
+United States,Las Vegas,580,779,12,691.0
+Canada,Ottawa,587,772,11,489.0
+United States,Yorba Linda,566,767,11,1446.0
+United States,San Diego,585,761,7,278.0
+Indonesia,(not set),540,758,12,612.0
+United States,Fremont,559,736,13,888.0
+Germany,Berlin,552,722,5,293.0
+Canada,Brampton,570,709,10,720.0
+Netherlands,Amsterdam,516,695,14,893.0
+United Arab Emirates,Dubai,515,688,3,221.0
+Mexico,Mexico City,491,686,10,763.0
+Malaysia,Kuala Lumpur,545,679,12,1138.0
+Malaysia,(not set),502,660,7,704.0
+Canada,Vancouver,505,651,17,1152.0
+Canada,Surrey,499,622,11,548.0
+Italy,Milan,480,621,7,525.0
+India,Kochi,459,616,13,927.0
+Austria,Vienna,444,613,20,721.0
+Pakistan,Karachi,464,608,4,121.0
+China,Shanghai,457,603,10,486.0
+Sweden,Stockholm,478,602,7,345.0
+Canada,Winnipeg,461,594,8,631.0
+Greece,(not set),433,593,19,1182.0
+Italy,Rome,436,576,6,253.0
+India,Bhubaneswar,431,572,11,760.0
+Switzerland,Zurich,437,569,4,169.0
+Vietnam,(not set),423,565,6,235.0
+Canada,Edmonton,443,559,10,607.0
+United States,Oakland,443,559,4,327.0
+Ireland,(not set),425,556,5,206.0
+Israel,(not set),424,553,5,266.0
+India,Noida,425,549,6,245.0
+Denmark,(not set),416,548,6,188.0
+Ukraine,Kyiv,397,543,6,654.0
+Vietnam,Ho Chi Minh City,386,542,18,1217.0
+Argentina,(not set),441,542,4,215.0
+United States,Nashville,384,542,19,1389.0
+India,Gurgaon,423,539,9,232.0
+United States,Washington,420,537,9,577.0
+Canada,Mississauga,412,529,4,285.0
+Bangladesh,Dhaka,382,518,5,223.0
+Chile,Santiago,359,512,7,290.0
+India,Ludhiana,362,510,5,638.0
+Romania,(not set),412,506,5,412.0
+Portugal,Lisbon,384,506,5,414.0
+United States,Portland,387,504,9,808.0
+United States,Omaha,349,494,13,955.0
+United States,Orlando,390,492,9,667.0
+Czechia,(not set),386,489,5,346.0
+Germany,Munich,357,476,9,399.0
+United States,Kansas City,353,475,2,120.0
+United States,Miami,363,473,4,375.0
+United States,Boardman,344,472,13,420.0
+Greece,Athens,347,470,9,299.0
+United States,Minneapolis,369,463,4,324.0
+India,New Delhi,352,455,9,504.0
+Colombia,(not set),355,451,26,1024.0
+Sri Lanka,Colombo,341,449,7,276.0
+Pakistan,Lahore,342,446,6,300.0
+Ukraine,(not set),351,444,3,276.0
+Czechia,Prague,314,443,15,361.0
+United States,Indianapolis,319,441,7,654.0
+United States,Pittsburgh,338,439,18,685.0
+United States,Jersey City,329,437,9,345.0
+United States,Baltimore,317,422,3,52.0
+Thailand,(not set),322,421,9,992.0
+United States,Cupertino,314,414,3,351.0
+Japan,Yokohama,303,413,9,717.0
+United States,Detroit,318,412,6,645.0
+Vietnam,Hanoi,319,408,2,152.0
+United States,San Mateo,314,405,3,224.0
+United States,Sacramento,306,404,9,694.0
+China,Xiamen,291,402,3,232.0
+United States,Raleigh,315,402,8,666.0
+United States,Rochester,319,391,5,258.0
+India,Chandigarh,306,388,5,334.0
+Germany,Hamburg,298,388,1,18.0
+Canada,Kitchener,314,388,3,106.0
+United States,Redwood City,292,386,8,755.0
+China,Shenzhen,302,383,6,569.0
+United States,Milpitas,272,382,5,208.0
+India,Agra,297,380,26,903.0
+Indonesia,Surabaya,308,379,1,99.0
+Norway,(not set),282,374,2,61.0
+United States,Irvine,296,370,0,0.0
+Canada,Hamilton,284,370,6,283.0
+United States,Milwaukee,295,370,6,354.0
+Slovakia,(not set),291,368,3,315.0
+Denmark,Copenhagen,274,364,7,313.0
+Nigeria,Lagos,280,362,4,446.0
+Egypt,(not set),265,359,5,331.0
+South Africa,(not set),267,358,1,0.0
+Turkey,Ankara,270,357,22,896.0
+United States,Tampa,272,357,4,280.0
+Philippines,Quezon City,272,353,3,159.0
+Canada,Laval,240,350,14,1052.0
+Canada,Quebec City,259,348,3,260.0
+United States,Fort Worth,251,346,3,85.0
+United States,Bellevue,245,345,10,444.0
+Argentina,Buenos Aires,269,345,7,335.0
+United States,Palo Alto,240,332,6,144.0
+Austria,(not set),243,331,4,115.0
+Canada,London,258,329,6,360.0
+Australia,Brisbane,254,328,6,386.0
+China,Guangzhou,250,328,1,28.0
+United States,Arlington,265,327,3,110.0
+United States,Jacksonville,241,327,3,205.0
+India,Guwahati,247,324,7,442.0
+United States,Redmond,243,321,7,153.0
+China,Chengdu,215,320,6,481.0
+Saudi Arabia,Riyadh,244,320,5,336.0
+Romania,Bucharest,248,319,1,24.0
+United States,Cincinnati,225,318,4,404.0
+Germany,Frankfurt,253,318,3,84.0
+United States,Newark,220,312,4,163.0
+Poland,Krakow,223,311,4,150.0
+Croatia,Zagreb,227,304,0,0.0
+Japan,Osaka,230,298,4,495.0
+Saudi Arabia,Jeddah,215,297,3,139.0
+Australia,(not set),223,295,5,254.0
+Finland,Helsinki,241,295,5,646.0
+United States,Springfield,213,294,7,390.0
+Hungary,Budapest,204,293,2,169.0
+Poland,Wroclaw,216,288,5,196.0
+Canada,Vaughan,220,288,8,843.0
+Russia,Saint Petersburg,216,284,4,124.0
+Canada,Markham,216,281,6,287.0
+United States,Menlo Park,217,280,5,179.0
+Morocco,(not set),194,278,3,313.0
+Taiwan,Zhongli District,219,275,4,257.0
+Finland,(not set),227,274,7,446.0
+United States,Memphis,211,274,8,316.0
+Japan,Shinjuku City,201,273,1,55.0
+United States,Salt Lake City,201,273,10,443.0
+United States,Kirkland,201,272,3,72.0
+Canada,Richmond Hill,201,271,5,669.0
+Sweden,Gothenburg,191,260,4,308.0
+United States,Ann Arbor,186,260,3,111.0
+Spain,Valencia,174,255,4,427.0
+United States,Louisville,186,255,5,365.0
+Mexico,Tijuana,199,254,1,20.0
+Japan,Setagaya City,170,251,5,216.0
+Canada,Halifax,172,251,4,288.0
+Canada,Salmon Arm,196,251,2,158.0
+Australia,Perth,176,250,4,357.0
+Greece,Thessaloniki,195,249,3,244.0
+Japan,Minato City,191,249,9,568.0
+Canada,Burnaby,197,248,5,155.0
+India,Meerut,183,247,2,99.0
+Egypt,Cairo,175,247,2,118.0
+India,Coimbatore,186,245,2,422.0
+United States,Dublin,182,242,3,142.0
+Morocco,Casablanca,176,241,3,204.0
+South Korea,Busan,177,241,0,0.0
+Iraq,(not set),172,239,5,385.0
+New Zealand,Auckland,199,239,2,109.0
+United States,Albuquerque,175,239,5,300.0
+Indonesia,Depok,186,238,0,0.0
+India,Bhopal,177,237,1,110.0
+United States,Cleveland,179,237,7,174.0
+United States,Coffeyville,176,234,5,431.0
+Hungary,(not set),177,234,3,108.0
+India,Navi Mumbai,176,232,3,399.0
+Brazil,Rio de Janeiro,179,229,6,561.0
+United States,Des Moines,164,228,3,77.0
+Lithuania,Vilnius,152,227,1,30.0
+United States,Oklahoma City,178,225,4,410.0
+United States,Los Altos,169,224,7,840.0
+Bulgaria,Sofia,172,223,5,276.0
+India,Panipat,185,223,3,384.0
+Turkey,Izmir,158,222,7,611.0
+Italy,Turin,167,221,4,184.0
+Kenya,Nairobi,168,219,3,120.0
+Germany,Cologne,174,218,2,86.0
+Algeria,(not set),164,218,5,105.0
+Poland,Poznan,186,217,1,84.0
+United States,Aurora,162,217,3,224.0
+Pakistan,(not set),173,216,8,885.0
+United States,Birmingham,143,215,2,127.0
+United Kingdom,Leeds,167,212,4,801.0
+Canada,Oakville,167,211,4,461.0
+Canada,Gatineau,174,211,8,342.0
+New Zealand,(not set),172,211,4,190.0
+Philippines,Makati,169,210,2,30.0
+United Kingdom,Bristol,138,205,7,658.0
+Bangladesh,(not set),158,205,4,129.0
+United States,Lincoln,131,204,3,85.0
+India,Surat,157,204,3,20.0
+France,Lyon,156,204,4,740.0
+Kuwait,(not set),155,203,6,383.0
+Canada,Saskatoon,136,203,3,191.0
+Jordan,(not set),156,203,2,42.0
+United States,El Paso,164,202,0,0.0
+United States,Turner,159,202,8,206.0
+Canada,Longueuil,149,201,2,185.0
+United States,Virginia Beach,167,201,1,88.0
+United Kingdom,Manchester,153,201,3,162.0
+Netherlands,Rotterdam,151,200,2,155.0
+India,Vijayawada,153,194,5,328.0
+United States,Farmington Hills,124,190,2,175.0
+United States,Richmond,136,189,7,411.0
+France,Bordeaux,155,188,4,179.0
+Netherlands,Utrecht,153,188,2,14.0
+United Arab Emirates,(not set),133,186,4,212.0
+Indonesia,Bandung,136,184,4,384.0
+United States,Honolulu,147,184,2,191.0
+Portugal,Porto,140,182,1,46.0
+Tunisia,Tunis,143,181,4,193.0
+Germany,Stuttgart,142,181,2,163.0
+United States,Bakersfield,130,180,2,49.0
+United States,Tucson,145,180,4,208.0
+United States,San Ramon,148,180,0,0.0
+India,Visakhapatnam,117,179,4,80.0
+United States,Quincy,135,179,2,188.0
+United Kingdom,Birmingham,141,178,5,233.0
+India,Faridabad,138,177,1,0.0
+United States,Santa Cruz,125,176,4,164.0
+Norway,Oslo Municipality,134,174,0,0.0
+Canada,Windsor,126,174,3,308.0
+India,Thane,129,174,1,20.0
+Uruguay,Montevideo,104,172,7,249.0
+Indonesia,Makassar,150,172,1,115.0
+Bulgaria,(not set),139,171,2,85.0
+Colombia,Medellin,142,171,1,28.0
+United States,Durham,131,171,2,79.0
+United States,Madison,139,170,0,0.0
+Turkey,Bursa,124,170,4,449.0
+United States,St. Louis,124,170,1,14.0
+United States,Santa Ana,128,169,0,0.0
+India,Mysuru,131,169,8,656.0
+Netherlands,Eindhoven,124,169,7,378.0
+United States,New Orleans,131,165,1,92.0
+Canada,Richmond,127,165,5,141.0
+Taiwan,Neipu Township,134,164,2,96.0
+India,Pimpri-Chinchwad,142,162,1,54.0
+North Macedonia,(not set),113,162,3,293.0
+Ecuador,(not set),141,160,2,152.0
+Sri Lanka,(not set),134,160,2,124.0
+United States,Round Rock,110,159,9,723.0
+United States,Cambridge,114,159,4,329.0
+India,Nagpur,136,158,1,16.0
+United States,Boulder,129,158,1,70.0
+South Korea,Incheon,118,158,4,228.0
+United States,Irving,122,157,5,344.0
+Italy,Naples,125,156,4,1262.0
+Belgium,Brussels,110,156,1,21.0
+United States,Frisco,115,156,1,27.0
+United States,Riverside,116,155,2,76.0
+United States,Long Beach,116,155,4,264.0
+Georgia,Tbilisi,124,155,7,143.0
+United States,Wichita,118,155,6,692.0
+United States,Fresno,121,155,2,226.0
+Belarus,Minsk,121,154,1,80.0
+United States,San Carlos,130,153,3,104.0
+Latvia,Riga,123,153,2,58.0
+Serbia,Belgrade,113,153,2,66.0
+Singapore,(not set),119,153,3,226.0
+United States,Knoxville,118,152,2,43.0
+India,Thrissur,118,152,3,290.0
+India,Bardhaman,128,152,1,0.0
+United States,Pleasanton,128,152,2,218.0
+China,Guiyang,94,151,5,492.0
+United States,Grand Rapids,114,151,2,314.0
+Nepal,Kathmandu,113,150,0,0.0
+United States,Campbell,117,150,3,62.0
+United States,Hayward,131,149,3,285.0
+Belgium,Antwerp,115,149,2,15.0
+Palestine,(not set),112,146,2,164.0
+Nigeria,(not set),104,146,3,181.0
+United Kingdom,Glasgow,111,146,1,30.0
+Canada,Regina,102,146,2,267.0
+El Salvador,San Salvador,81,146,3,165.0
+Cambodia,Phnom Penh,107,145,1,45.0
+United States,Chandler,111,145,1,46.0
+Slovenia,Ljubljana,111,144,4,241.0
+Canada,Waterloo,120,144,2,86.0
+Brazil,Belo Horizonte,105,144,4,458.0
+India,Dehradun,103,144,1,96.0
+South Korea,Seongnam-si,97,144,1,11.0
+Australia,Adelaide,111,143,5,282.0
+United States,Colorado Springs,127,143,0,0.0
+Ecuador,Quito,104,142,3,100.0
+Canada,Barrie,107,142,1,20.0
+Malaysia,Shah Alam,116,142,0,0.0
+United States,Tulsa,104,142,1,63.0
+United States,Marietta,98,142,4,207.0
+Venezuela,(not set),92,142,1,11.0
+Canada,Abbotsford,103,141,0,0.0
+Japan,Chiyoda City,121,141,1,0.0
+Azerbaijan,Baku,120,141,0,0.0
+Qatar,Doha,101,140,1,30.0
+United States,Saint Paul,105,139,1,90.0
+United States,Boise,104,139,4,214.0
+Slovenia,(not set),113,138,6,302.0
+Malaysia,Puchong,99,138,5,366.0
+United States,Mobile,89,137,3,280.0
+Canada,Kingston,105,137,2,478.0
+Croatia,(not set),99,137,2,50.0
+Guatemala,Guatemala City,93,137,4,152.0
+United States,Mesa,107,137,4,312.0
+United States,Los Gatos,108,136,2,34.0
+Canada,Sherbrooke,90,136,2,100.0
+Lebanon,Beirut,111,135,2,198.0
+India,Ghaziabad,97,135,2,226.0
+United States,Berkeley,95,135,4,507.0
+Chile,(not set),107,135,4,222.0
+United States,Parsons,96,134,1,63.0
+United States,Cedar Rapids,99,133,2,69.0
+United Kingdom,Edinburgh,102,133,2,136.0
+Netherlands,The Hague,97,133,2,55.0
+United Arab Emirates,Sharjah,93,132,3,177.0
+Canada,Cambridge,97,132,1,204.0
+Serbia,(not set),103,132,2,95.0
+United States,Lexington,93,132,1,83.0
+France,Lille,105,131,2,125.0
+South Africa,Johannesburg,93,129,1,20.0
+South Korea,Daegu,111,129,1,0.0
+India,Ranchi,97,128,9,522.0
+Puerto Rico,(not set),95,128,2,66.0
+United States,Saratoga,95,128,2,42.0
+Switzerland,Geneva,99,127,2,84.0
+Myanmar (Burma),Yangon,107,126,0,0.0
+United States,Fort Wayne,79,126,3,109.0
+United States,Anaheim,100,126,0,0.0
+Spain,Seville,108,126,2,60.0
+India,Udaipur,92,125,4,163.0
+United States,Reston,109,125,0,0.0
+United States,Burlingame,92,125,10,1063.0
+United Arab Emirates,Abu Dhabi,103,125,3,82.0
+United States,Eau Claire,91,124,2,44.0
+South Africa,Cape Town,107,124,2,57.0
+United States,Edison,102,124,2,44.0
+India,Vadodara,94,123,3,108.0
+United Kingdom,Sheffield,93,122,3,249.0
+Cyprus,(not set),95,122,2,104.0
+South Korea,Yongin-si,86,122,0,0.0
+France,Marseille,95,122,2,61.0
+Canada,Oshawa,99,121,0,0.0
+Belgium,Ghent,82,121,1,58.0
+Poland,Katowice,92,120,2,79.0
+Taiwan,Taoyuan District,83,120,4,158.0
+Puerto Rico,San Juan,80,120,3,263.0
+Turkey,Antalya,92,120,2,116.0
+France,Toulouse,102,119,1,50.0
+United States,Cypress,86,118,9,1021.0
+Germany,Dusseldorf,100,118,1,83.0
+Turkey,Adana,84,118,5,197.0
+Estonia,Tallinn,103,117,0,0.0
+Spain,Malaga,82,117,3,343.0
+Japan,Shibuya City,88,117,0,0.0
+South Korea,Suwon-si,85,116,5,318.0
+United States,Vista,88,116,4,186.0
+United States,Clermont,77,115,1,0.0
+United States,Stockton,91,114,2,44.0
+Dominican Republic,(not set),74,114,4,280.0
+United States,Reno,87,114,2,131.0
+Philippines,Manila,91,114,3,57.0
+United States,Cumming,71,113,0,0.0
+United States,Cary,70,113,1,184.0
+United States,Scottsdale,82,112,4,325.0
+United States,Greensboro,93,112,3,178.0
+United States,Rancho Cucamonga,74,111,2,35.0
+Malaysia,Petaling Jaya,89,111,2,109.0
+Italy,Florence,78,111,1,84.0
+Canada,Burlington,90,111,1,96.0
+India,Shimla,85,111,0,0.0
+Pakistan,Sialkot,96,111,0,0.0
+Malaysia,Johor Bahru,79,110,7,804.0
+India,Secunderabad,73,110,4,190.0
+Lithuania,(not set),93,110,2,53.0
+United States,Livermore,84,110,1,44.0
+Canada,Coquitlam,88,110,1,34.0
+Jamaica,(not set),89,110,0,0.0
+Brazil,Curitiba,88,110,0,0.0
+United States,San Bruno,78,109,1,71.0
+India,Raipur,91,109,0,0.0
+Canada,Greater Sudbury,77,109,2,181.0
+United States,Union City,85,108,2,132.0
+United States,Buffalo,71,108,6,312.0
+United States,Plano,87,107,0,0.0
+United Kingdom,Liverpool,73,106,0,0.0
+Brazil,Brasilia,92,106,1,74.0
+United States,San Rafael,79,106,1,89.0
+United Kingdom,Cardiff,78,106,0,0.0
+United States,Everett,62,106,2,17.0
+Japan,Ota City,80,106,3,271.0
+United States,Tacoma,70,106,11,389.0
+Spain,Zaragoza,88,105,0,0.0
+Spain,Bilbao,86,105,1,108.0
+United Kingdom,Slough,84,105,1,29.0
+Philippines,Cebu City,83,105,1,69.0
+Spain,Pozuelo de Alarcon,76,104,1,74.0
+Sweden,Malmo,80,104,0,0.0
+Netherlands,Breda,76,104,1,0.0
+United States,Little Rock,79,104,1,17.0
+India,Kanpur,77,104,0,0.0
+Indonesia,Tangerang,78,103,0,0.0
+United States,Gowanda,81,103,2,195.0
+Iceland,Reykjavik,83,103,1,0.0
+China,Dongguan,78,103,1,47.0
+India,Thiruvananthapuram,77,103,0,0.0
+United States,Ontario,79,103,1,0.0
+United Kingdom,Croydon,71,103,1,55.0
+Canada,St. John's,70,102,4,251.0
+United States,North Bergen,90,102,0,0.0
+United States,Naperville,86,102,0,0.0
+Kazakhstan,(not set),88,102,0,0.0
+Mexico,Mexicali,70,101,5,263.0
+United States,Yonkers,65,101,0,0.0
+Canada,Fredericton,66,101,3,77.0
+United States,Morgan Hill,66,101,9,216.0
+Canada,Newmarket,66,101,2,118.0
+Japan,Nagoya,77,101,1,112.0
+Canada,Milton,75,100,3,176.0
+United States,South San Francisco,81,100,0,0.0
+United States,Gilbert,66,100,7,207.0
+Dominican Republic,Santo Domingo,80,100,2,148.0
+Japan,Shinagawa City,86,99,1,33.0
+United States,McKinney,69,99,4,128.0
+Kazakhstan,Almaty,68,99,2,221.0
+Albania,(not set),71,99,1,31.0
+Canada,Kelowna,78,99,1,72.0
+Canada,Vaudreuil-Dorion,75,99,0,0.0
+United States,Norfolk,68,99,0,0.0
+United States,Kalamazoo,77,98,1,54.0
+United States,Spokane,57,98,0,0.0
+Poland,Gdansk,77,98,3,100.0
+United States,Beaverton,75,97,2,94.0
+Ireland,Cork,63,97,1,97.0
+United States,Rockford,64,97,1,17.0
+Italy,Bologna,82,97,2,30.0
+Ukraine,Odesa,74,96,1,30.0
+Panama,Panama City,62,96,1,44.0
+Indonesia,Medan,75,96,0,0.0
+United States,Stamford,80,96,2,128.0
+United States,North Creek,77,95,4,358.0
+United States,Santa Monica,74,95,1,63.0
+United States,St. Petersburg,69,94,1,123.0
+United States,Sugar Land,60,94,5,276.0
+Mongolia,Ulaanbaatar,66,94,2,134.0
+Switzerland,Lausanne,70,94,0,0.0
+United States,Chula Vista,77,94,2,359.0
+South Korea,Goyang-si,66,93,1,13.0
+Canada,Guelph,79,93,1,17.0
+Canada,Saguenay,72,93,1,56.0
+United States,Charleston,75,92,0,0.0
+United States,Clifton,67,92,0,0.0
+United States,Vancouver,77,92,1,23.0
+India,Imphal,60,92,2,157.0
+Italy,Verona,63,91,0,0.0
+United States,Somerville,61,91,2,97.0
+Canada,Dartmouth,65,90,5,438.0
+Bolivia,(not set),69,90,2,92.0
+United States,Gainesville,56,90,1,121.0
+Italy,Bari,69,90,0,0.0
+Italy,Vicenza,65,89,1,28.0
+United States,Waukesha,67,89,0,0.0
+United States,Foster City,76,88,2,29.0
+Ukraine,Kharkiv,63,88,1,28.0
+United States,Fort Lauderdale,56,88,4,355.0
+Canada,Chatham-Kent,58,88,1,40.0
+Costa Rica,(not set),76,88,2,101.0
+United States,Charlottesville,64,88,0,0.0
+Macao,Macau,55,88,3,140.0
+Pakistan,Islamabad,59,88,2,111.0
+France,Montpellier,74,88,0,0.0
+Canada,Woodstock,61,88,2,197.0
+United Kingdom,Coventry,67,88,3,93.0
+Canada,Levis,64,87,3,853.0
+United States,Corpus Christi,69,87,1,40.0
+Armenia,Yerevan,60,87,1,85.0
+Canada,Pickering,60,87,0,0.0
+France,Rennes,78,87,2,76.0
+Canada,Victoria,59,86,4,148.0
+United States,Livonia,61,86,1,141.0
+United States,Lubbock,65,86,3,195.0
+Canada,Saint John,60,86,0,0.0
+United States,Jackson,66,85,1,166.0
+United States,Pasadena,61,85,1,192.0
+South Korea,Cheonan-si,67,85,3,141.0
+Spain,Granada,53,85,0,0.0
+India,Rajkot,63,84,0,0.0
+Canada,Thunder Bay,61,84,3,36.0
+China,Qingdao,71,84,1,176.0
+Pakistan,Rawalpindi,72,84,1,0.0
+United States,Providence,65,83,2,112.0
+United States,Goose Creek,59,83,0,0.0
+India,Aligarh,52,83,1,0.0
+United States,Hialeah,63,82,0,0.0
+Slovakia,Bratislava,71,82,4,84.0
+India,Jammu,64,82,0,0.0
+United States,Salinas,53,82,0,0.0
+United States,Cherry Hill,61,82,2,117.0
+United States,Blackhawk,58,82,4,700.0
+Taiwan,Longtan District,67,82,3,60.0
+Bahamas,Nassau,54,81,1,24.0
+Bosnia & Herzegovina,(not set),60,81,1,49.0
+Canada,North Vancouver,64,81,6,767.0
+Mexico,Monterrey,64,81,3,140.0
+Oman,(not set),66,81,0,0.0
+Israel,Petah Tikva,60,81,0,0.0
+United States,Laredo,76,81,2,32.0
+United States,Sioux Falls,63,80,1,0.0
+United States,Pflugerville,57,80,2,156.0
+China,Suzhou,66,80,1,0.0
+Canada,Maple Ridge,59,80,0,0.0
+United States,Glendale,64,80,2,98.0
+Canada,Brantford,56,80,1,16.0
+Canada,Ajax,64,80,0,0.0
+Saudi Arabia,(not set),64,80,1,143.0
+United Kingdom,Nottingham,53,80,0,0.0
+Romania,Cluj-Napoca,63,79,0,0.0
+Canada,St. Catharines,60,79,0,0.0
+United States,Hartford,63,79,1,48.0
+United States,Arlington Heights,51,79,1,108.0
+Canada,Saint-Jerome,57,79,2,31.0
+United States,Lakewood,66,79,2,168.0
+Costa Rica,San Jose,64,78,3,180.0
+United States,Mission Viejo,58,78,4,58.0
+United States,Sammamish,68,78,1,99.0
+United States,Worcester,55,78,2,214.0
+Japan,Fukuoka,57,78,2,256.0
+Japan,Chuo City,62,78,0,0.0
+United States,Daly City,60,77,0,0.0
+United Kingdom,Newcastle upon Tyne,66,77,0,0.0
+Canada,Langley Township,65,77,0,0.0
+Canada,Moncton,69,77,0,0.0
+Turkey,Konya,52,77,1,52.0
+United States,Baton Rouge,61,77,0,0.0
+Switzerland,Bern,55,77,1,79.0
+United States,Walnut Creek,67,77,0,0.0
+Colombia,Cali,54,77,1,24.0
+India,Varanasi,57,77,2,124.0
+Indonesia,South Tangerang,53,76,1,35.0
+Canada,Lethbridge,59,76,0,0.0
+United States,Manchester,66,76,1,68.0
+United States,Clarksville,61,76,0,0.0
+United States,Pacifica,54,76,3,249.0
+Japan,Kawasaki,66,76,1,22.0
+Denmark,Aarhus,58,76,1,226.0
+United States,Metairie,58,76,1,33.0
+South Korea,Ulsan,57,75,1,76.0
+Germany,Norderstedt,54,75,0,0.0
+United States,Lawrenceville,56,75,1,53.0
+United States,Schaumburg,59,75,0,0.0
+India,Jodhpur,60,75,1,21.0
+United States,Alameda,58,75,0,0.0
+United States,Eugene,59,74,1,31.0
+Spain,Alicante,60,74,1,102.0
+Ghana,Accra,65,74,0,0.0
+Luxembourg,Luxembourg,56,74,1,12.0
+Poland,Lodz,65,74,3,162.0
+United Kingdom,Reading,64,74,0,0.0
+United States,Smyrna,53,74,1,13.0
+United States,Albany,56,73,2,151.0
+Spain,Jerez de la Frontera,61,73,1,32.0
+United States,Murfreesboro,61,73,2,146.0
+France,Nantes,61,73,0,0.0
+Spain,Palma,53,72,4,71.0
+United States,Brentwood,50,72,0,0.0
+India,Tirupati,55,72,4,123.0
+Mexico,Santiago de Queretaro,51,72,0,0.0
+India,Siliguri,57,72,0,0.0
+Indonesia,Bekasi,57,72,0,0.0
+Bahrain,(not set),53,72,1,206.0
+Germany,Hanover,60,71,1,22.0
+United States,Alexandria,53,71,0,0.0
+Indonesia,Semarang,52,71,0,0.0
+Paraguay,(not set),51,71,1,30.0
+Kosovo,(not set),53,71,1,20.0
+Canada,Terrebonne,59,71,2,157.0
+Trinidad & Tobago,(not set),55,71,0,0.0
+Canada,Aurora,54,71,1,0.0
+Italy,Monza,49,70,2,54.0
+United States,Mesquite,52,70,2,239.0
+United States,Broken Arrow,58,70,0,0.0
+United States,Roslyn Heights,56,70,1,21.0
+United States,Bethesda,55,70,2,56.0
+Malta,(not set),57,70,4,910.0
+United States,Redondo Beach,50,69,0,0.0
+United States,Cheyenne,64,69,0,0.0
+United States,Malden,51,69,0,0.0
+United States,Lancaster,51,69,1,37.0
+United States,Elgin,51,69,0,0.0
+United States,Elk Grove,54,69,2,86.0
+Mexico,Ciudad Juarez,60,69,1,24.0
+Germany,Nuremberg,61,68,1,0.0
+United States,Chattanooga,53,68,1,41.0
+Canada,Saint-Jean-sur-Richelieu,57,68,3,260.0
+Egypt,New Cairo City,52,68,2,44.0
+Philippines,Meycauayan,51,68,2,223.0
+United States,Fontana,52,68,0,0.0
+United States,Champaign,58,68,0,0.0
+Egypt,Alexandria,57,68,0,0.0
+United States,The Woodlands,54,67,1,24.0
+Honduras,(not set),51,67,1,14.0
+Canada,Port Coquitlam,53,67,3,432.0
+United States,Franklin,55,67,1,38.0
+United States,Huntsville,57,67,1,91.0
+United States,Danville,49,67,0,0.0
+United States,Montgomery,56,67,2,55.0
+Indonesia,Batam,50,67,0,0.0
+United States,Germantown,53,67,0,0.0
+United States,Winston-Salem,49,66,1,23.0
+United States,Auburn,48,66,0,0.0
+Canada,Nanaimo,49,66,0,0.0
+Ukraine,Dnipro,53,66,0,0.0
+Brazil,Porto Alegre,49,65,2,130.0
+Italy,Brescia,51,65,0,0.0
+United States,Concord,61,64,2,159.0
+United States,Tempe,49,64,1,22.0
+United States,San Leandro,60,64,0,0.0
+Ukraine,Lviv,52,64,1,106.0
+United States,Costa Mesa,55,63,7,184.0
+United States,Evanston,49,63,0,0.0
+India,Mira Bhayandar,55,63,2,83.0
+United States,Toledo,54,63,0,0.0
+United States,McLean,51,62,0,0.0
+United States,Chesapeake,50,62,0,0.0
+Australia,Canberra,53,62,0,0.0
+United States,West Palm Beach,53,62,0,0.0
+United States,Sandy Springs,55,62,2,243.0
+China,Nanjing,51,62,0,0.0
+United States,Secaucus,51,62,1,135.0
+Saudi Arabia,Dammam,52,61,0,0.0
+United States,Columbia,52,61,0,0.0
+United States,College Station,59,61,0,0.0
+United States,Paramus,53,61,1,90.0
+United States,Hollywood,53,61,0,0.0
+United States,Thornton,52,61,0,0.0
+United States,Santa Clarita,49,61,1,53.0
+United States,Richardson,49,61,1,79.0
+United States,Chantilly,48,60,0,0.0
+Canada,Sherwood Park,51,60,0,0.0
+Canada,Granby,49,60,2,190.0
+United States,Modesto,50,59,1,86.0
+India,Sahibzada Ajit Singh Nagar,52,59,0,0.0
+Mexico,Guadalajara,54,59,0,0.0
+United States,Fairfield,49,58,2,64.0
+United States,Boca Raton,50,58,0,0.0
+Netherlands,Almere,49,57,0,0.0
+United States,Hoover,46,56,0,0.0
+United States,Johns Creek,50,56,1,102.0
+United States,Asheville,49,55,0,0.0
+South Korea,Daejeon,49,55,0,0.0
